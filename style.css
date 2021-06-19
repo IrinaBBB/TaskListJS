@@ -1,0 +1,7 @@
+.delete-item:hover {
+    cursor: pointer;
+}
+
+.collection-item {
+    font-size: 20px;
+}
